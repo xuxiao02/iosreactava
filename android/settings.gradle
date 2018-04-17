@@ -1,0 +1,3 @@
+rootProject.name = 'iosreactava'
+
+include ':app'
